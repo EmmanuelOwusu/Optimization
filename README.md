@@ -1,5 +1,8 @@
 # Optimization
-This Repository contains work done in Optimization 
+This Repository contains work done in Optimization and a project on Statistical Estimation.
+
+The goal of this python file is to manipulate some of the convex optimisation tools from scipy.optimize, which you is needed to implement the machine learning algorithms. 
+
 
 This Repository also contains a project on Statistical Estimation.
 
