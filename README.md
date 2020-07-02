@@ -17,4 +17,14 @@ optimal strategy to adopt in the light of real world problems with numerous alte
 
 # Principal Component Analysis (PCA)
 
+We  implemented  PCA. 
+
+* Assume that we are performing PCA on some dataset $\boldsymbol X$ for $M$ principal components. 
+We then need to perform the following steps, which we break into parts:
+
+   1. Data normalization (`normalize`).
+   2. Find eigenvalues and corresponding eigenvectors for the covariance matrix $S$.
+   Sort by the largest eigenvalues and the corresponding eigenvectors (`eig`).
+
+* After these steps, we can then compute the projection and reconstruction of the data onto the spaced spanned by the top $n$ eigenvectors.
 
