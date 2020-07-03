@@ -33,6 +33,14 @@ We then need to perform the following steps, which we break into parts:
 This repository also contains work done in Optimisation Algorithms For Neural Network.
 
 * Some of the optimizers discussed are :
+
+    * Stochastic Gradient Descent with Momentum
+    
+    * AdaGrad
+    
+    * RMSProp
+    
+    * Adam Optimizer
     
 
 
