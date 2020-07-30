@@ -26,6 +26,8 @@ In this project we discussed:
 
 * Experiment Design
 
+* Scalarization
+
 
 # Principal Component Analysis (PCA)
 
