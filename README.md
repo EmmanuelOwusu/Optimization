@@ -20,6 +20,8 @@ In this project we discussed:
 
 * Probabiliry Matrix
 
+* Randomize Detector 
+
 
 # Principal Component Analysis (PCA)
 
