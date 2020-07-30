@@ -13,6 +13,13 @@ This Repository also contains a project work on Statistical Estimation.
  Leveraging statistical and optimisation principles to design the
 optimal strategy to adopt in the light of real world problems with numerous alternative solutions.
 
+In this project we discussed:
+* MLE
+
+* Hypothesis Testing 
+
+* Probabiliry Matrix
+
 
 # Principal Component Analysis (PCA)
 
