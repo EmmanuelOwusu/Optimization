@@ -34,7 +34,7 @@ This repository also contains work done in Optimisation Algorithms For Neural Ne
 
 * Some of the optimizers discussed are :
 
-    * Stochastic Gradient Descent with Momentum
+    * Stochastic Gradient Descent (SGD) with Momentum
     
     * AdaGrad
     
