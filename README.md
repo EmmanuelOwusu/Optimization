@@ -22,6 +22,10 @@ In this project we discussed:
 
 * Randomize Detector 
 
+* Minimax Detector Design 
+
+* Experiment Design
+
 
 # Principal Component Analysis (PCA)
 
