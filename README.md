@@ -31,6 +31,8 @@ In this project we discussed:
    * A-Optimal Design
    
    * E-Optimal Design
+   
+   * D-Optimal Design
   
 
 
