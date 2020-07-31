@@ -29,6 +29,8 @@ In this project we discussed:
 * Scalarization 
    
    * A-Optimal Design
+   
+   * E-Optimal Design
   
 
 
