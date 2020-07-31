@@ -26,7 +26,10 @@ In this project we discussed:
 
 * Experiment Design
 
-* Scalarization
+* Scalarization 
+   
+   * A-Optimal Design
+  
 
 
 # Principal Component Analysis (PCA)
