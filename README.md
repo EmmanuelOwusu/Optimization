@@ -14,7 +14,7 @@ This Repository also contains a project work on Statistical Estimation.
 optimal strategy to adopt in the light of real world problems with numerous alternative solutions.
 
 In this project we discussed:
-* MLE
+* Maximum Likelihood Esstimation (MLE)
 
 * Hypothesis Testing 
 
