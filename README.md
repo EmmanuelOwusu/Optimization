@@ -62,7 +62,7 @@ This repository also contains work done in Optimisation Algorithms For Neural Ne
     
     * AdaGrad
     
-    * RMSProp
+    * RMSProp (Root)
     
     * Adam Optimizer
     
