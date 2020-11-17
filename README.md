@@ -49,7 +49,7 @@ We then need to perform the following steps, which we break into parts:
    2. Find eigenvalues and corresponding eigenvectors for the covariance matrix S.
    Sort by the largest eigenvalues and the corresponding eigenvectors (`eig`).
 
-* After these steps, we can then compute the projection and reconstruction of the data onto the spaced spanned *n*  eigenvectors.
+* After these steps, we can then compute the projection and reconstruction of the data onto the spaced spanned **n**  eigenvectors.
 
 
 # Optimisation Algorithms For Neural Network
