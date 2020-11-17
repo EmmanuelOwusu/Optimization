@@ -41,7 +41,7 @@ In this project we discussed:
 
 We  implemented  PCA. 
 
-* Assume that we are performing PCA on some dataset $$\boldsymbol X$$ for M principal components. 
+* Assume that we are performing PCA on some dataset **X** for M principal components. 
 
 We then need to perform the following steps, which we break into parts:
 
