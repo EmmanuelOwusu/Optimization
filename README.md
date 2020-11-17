@@ -19,7 +19,7 @@ In this project we discussed:
 
 * Hypothesis Testing 
 
-*  Matrix
+*  Probability Matrix
 
 * Randomize Detector 
 
