@@ -54,7 +54,7 @@ We then need to perform the following steps, which we break into parts:
 
 # Optimisation Algorithms For Neural Network
 
-This repository also contains research  Optimisation Algorithms For Neural Network.
+This repository also contains a research on Optimisation Algorithms For Neural Network.
 
 * Some of the optimizers discussed are :
 
