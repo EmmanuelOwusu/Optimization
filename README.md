@@ -11,10 +11,11 @@ This Repository also contains a project work on Statistical Estimation.
 
 * The goal of the project is:
 
- Leveraging statistical and optimisation principles to design the
+Leveraging statistical and optimisation principles to design the
 optimal strategy to adopt in the light of real world problems with numerous alternative solutions.
 
 In this project we discussed:
+
 * Maximum Likelihood Esstimation (MLE)
 
 * Hypothesis Testing 
@@ -41,7 +42,7 @@ In this project we discussed:
 
 We  implemented  PCA. 
 
-* Assume that we are performing PCA on some dataset **X** for M principal components. 
+* Assume that we are performing PCA on some dataset **X** for **M** principal components. 
 
 We then need to perform the following steps, which we break into parts:
 
