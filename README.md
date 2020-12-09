@@ -35,10 +35,17 @@ In this project we discussed:
    * E-Optimal Design
    
    * D-Optimal Design
+   
+   
   
+ 
+# Optimization
 
+This Repository contains work done on some optimization 
 
-# Principal Component Analysis (PCA)
+ 
+
+### Principal Component Analysis (PCA)
 
 We  implemented  PCA. 
 
@@ -53,8 +60,6 @@ We then need to perform the following steps, which we break into parts:
 * After these steps, we can then compute the projection and reconstruction of the data onto the spaced spanned **n**  eigenvectors.
 
 
-
-# Optimization
 
 
 # Optimisation Algorithms For Neural Network
