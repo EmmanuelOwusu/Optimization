@@ -9,7 +9,7 @@ This Repository also contains a project work on Statistical Estimation.
 
 # Summary of Project on  Statistical Estimation
 
-* The goal of the project is:
+* The goal of the Project is:
 
 Leveraging statistical and optimisation principles to design the
 optimal strategy to adopt in the light of real world problems with numerous alternative solutions.
