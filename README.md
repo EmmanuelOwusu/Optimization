@@ -41,7 +41,7 @@ In this project we discussed:
  
 # Optimization
 
-This Repository contains work done on some optimization 
+This Repository contains work done on some optimization techniques in Machine Learning.
 
  
 
