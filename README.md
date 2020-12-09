@@ -3,7 +3,7 @@
 
 
 
-This Repository also contains a project work on Statistical Estimation.
+This Repository contains a Project work on Statistical Estimation.
 
 # Summary of Project on  Statistical Estimation
 
