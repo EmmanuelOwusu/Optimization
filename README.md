@@ -26,6 +26,8 @@ In this project we discussed:
 
 * Minimax Detector Design 
 
+* Experiment Desi
+
 
 
 * Scalarization 
